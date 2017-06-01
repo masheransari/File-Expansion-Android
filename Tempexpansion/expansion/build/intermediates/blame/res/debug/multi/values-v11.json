@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "D:\\Asher\\Projects\\Office\\29-5-2017\\Tempexpansion\\expansion\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "D:\\Asher\\Projects\\Office\\29-5-2017\\Tempexpansion\\expansion\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 188
+                    }
+                }
+            }
+        ]
+    }
+]
